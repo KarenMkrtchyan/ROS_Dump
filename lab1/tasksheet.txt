@@ -1,0 +1,2 @@
+6c. In the esimulation, the robot turned exactly left or right, but in reality it wasn't able to execte clean 90 degree angles. This is just tolerance and misclaibration on the motors and encoders of the robot and was expected.
+One way we could deal with this is by playing around with the twist values until the physical robot looks to be doing 90 degree turns. 
